@@ -1,0 +1,2 @@
+# EasySpecs
+NopCommerce EasySpecs Plugin
