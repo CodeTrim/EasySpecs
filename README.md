@@ -9,3 +9,6 @@ NopCommerce EasySpecs Plugin
         <p>
             Specification attributes inside a set are organized into categories providing a logical grouping of Category/Specification Attributes for better user experience when viewing the product details and product comparison screen.
         </p>
+
+Please read here for more details
+http://codetrim.github.io/EasySpecs/
