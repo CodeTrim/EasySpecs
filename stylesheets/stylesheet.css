@@ -373,7 +373,6 @@ a {
     right:10px;
     border-radius:100px / 10px;
 }
-CSS Box Shad
 
 table.specs {
     font-size: 14px;
@@ -385,7 +384,7 @@ table.specs td:nth-child(1) {
 
 table.specs img {
     vertical-align: middle;
-    margin-right: 4px;
+    margin-right: 10px;
 }
 
 .well {
