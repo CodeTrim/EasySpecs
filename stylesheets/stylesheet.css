@@ -393,3 +393,25 @@ table.specs img {
     border-radius: 5px;
     padding: 10px 15px;
 }
+
+.btn-live-demo,
+.btn-live-demo:link,
+.btn-live-demo:visited
+{
+    background-color: #f5f5f5;
+    padding: 10px 15px;
+    border1: 5px solid #1E4268;
+    font-size: 26px;
+    font-weight: bold;
+    text-decoration: none;
+    color: #1E4268;
+    text-transform: uppercase;
+    border-radius: 10px;
+}
+
+.btn-live-demo:hover
+{
+    color: #056EC3;
+    text-decoration: none;
+    background-color: #fff;
+}
